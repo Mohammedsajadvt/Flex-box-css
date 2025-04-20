@@ -16,16 +16,16 @@ header {
                 0 10px 10px rgba(0, 0, 0, 0.22);
     padding-left: 20px;
     font-weight: bold;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
   }
 .title {
     font-size: 20px;
     font-weight: bold;
   }
 nav {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 2.4vh;
+    padding-bottom: 2.5vh;
 }
 .content {
   display: flex;
